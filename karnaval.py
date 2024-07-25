@@ -4,7 +4,7 @@ import struct
 
 pName = 'karnaval'
 pVersion = '1.0.0'
-pUrl = 'https://github.com/arcanaktepe/plugins/blob/master/karnaval.py'
+pUrl = 'https://raw.githubusercontent.com/arcanaktepe/plugins/master/karnaval.py'
 
 # ______________________________ Initializing ______________________________ #
 
